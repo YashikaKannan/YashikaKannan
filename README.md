@@ -41,6 +41,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
     <img src="https://i1.wp.com/img.olhardigital.com.br/wp-content/uploads/2023/03/editor-de-codigo-fonte-replit.png?resize=780,470" alt="replit-icon" width="60" height="50"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 </p>
 
 <h3 align="center">GitHub Stats</h3>
@@ -49,7 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikakannan&show_icons=true&locale=en" alt="yashikakannan" /></p>
 </div>
 
-<h3 align="center">GitHub Streak</h3>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashikakannan&" alt="yashikakannan" /></p>
-</div>
+
