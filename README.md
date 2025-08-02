@@ -8,7 +8,7 @@
 - 📫 How to reach me **yashikakannan05@gmail.com**
 - ⚡ Fun fact **I'm Learning German**
 
-<p align="left"><b>800+ Programs solved in SkillRack and 10+ Certificates 🏆</b></p>
+<p align="left"><b>1000+ Programs solved in SkillRack and 30+ Certificates 🏆</b></p>
 
 <p align="left">
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=438631&key=a72d6cc19959c68272dc225e2169f663d7176e31"> <img align="center" src="https://cdn.skillrack.com/img/logo.gif" height="40" width="200" > </p>
@@ -44,10 +44,5 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikakannan&show_icons=true&locale=en" alt="yashikakannan" /></p>
-</div>
 
 
